@@ -38,7 +38,7 @@ Hello! I'm Zaid, a passionate **Software Developer** with a focus on **backend w
 
 ## Let's Connect
 I'm always open to discussing tech, new projects, or opportunities. Feel free to reach out:  
-- **LinkedIn**: [Zaid Nsour](www.linkedin.com/in/zaid-nsour-2075632a8)  
+- **LinkedIn**: [Zaid Nsour](https://www.linkedin.com/in/zaid-nsour-2075632a8)  
 - **GitHub**: Check out my repositories and contributions right here!
 
 
