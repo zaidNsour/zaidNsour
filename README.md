@@ -32,7 +32,7 @@ Hello! I'm Zaid, a passionate **Software Developer** with a focus on **backend w
 
 ## 💡 Fun Facts
 
-- Solved 50+ problems on [HackerRank](https://www.hackerrank.com/profile/zaidnsour12).
+- Solved 60+ problems on [HackerRank](https://www.hackerrank.com/profile/zaidnsour12).
 - Participating in the **Crown Prince Award** competition for Best Government Services Application by developing an AI-powered medical app.
 - Attended **GrandTech 2024** to stay updated on tech trends and innovations.
 
