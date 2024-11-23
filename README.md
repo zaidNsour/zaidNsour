@@ -12,7 +12,7 @@ Hello! I'm Zaid, a passionate **Software Developer** with a focus on **backend w
 - **Thunder Client** (Rest Client for testing APIs)
 
 ### Languages:
-- **Python**, **Java**, **JavaScript**, **PHP**, **SQL**
+- **Python**, **Java**, **JavaScript**, **SQL**
 - **HTML**, **CSS**
 
 ### Data & Analytics:
@@ -32,8 +32,8 @@ Hello! I'm Zaid, a passionate **Software Developer** with a focus on **backend w
 
 ## 💡 Fun Facts
 
-- Solved 60+ problems on [HackerRank](https://www.hackerrank.com/profile/zaidnsour12).
-- Participating in the **Crown Prince Award** competition for Best Government Services Application by developing an AI-powered medical app.
+- Solved 80+ problems on [HackerRank](https://www.hackerrank.com/profile/zaidnsour12).
+- Participated in the **Crown Prince Award** competition for Best Government Services Application by developing an AI-powered medical app.
 - Attended **GrandTech 2024** to stay updated on tech trends and innovations.
 
 ## Let's Connect
