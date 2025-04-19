@@ -20,7 +20,7 @@ Hello! I'm Zaid, a passionate **Software Developer** with a focus on **backend w
 ### 🌐 Frontend (Basics):
 - **HTML**, **CSS**, **JavaScript**
 
-### Data & Analytics:
+### 📊 Data & Analytics:
 - **NumPy**, **Pandas**, **Matplotlib**
 
 ### 🧠 Computer Science:
@@ -35,11 +35,12 @@ Hello! I'm Zaid, a passionate **Software Developer** with a focus on **backend w
 ## 🏆 Highlights & Activities
 
 - 🏅 Built an **AI-powered medical app** for the **Crown Prince Award 2025**
-- 💡 Attended **GrandTech 2024** for cutting-edge tech insights
 - 🔍 Solved **100+ coding problems** on [HackerRank](https://www.hackerrank.com/profile/zaidnsour12)
+- 💡 Attended **GrandTech 2024** for cutting-edge tech insights
 - ⚔️ Competed in **Big O Avengers** coding contest
 - 💬 Joined startup and business events: Pricing Strategy Session, Expo Business City
 - 💼 Attended **University Career Day**
+
 
 ## 📬 Let's Connect
 
