@@ -14,14 +14,14 @@ Hello! I'm Zaid, a passionate **Software Developer** with a focus on **backend w
 - **API Testing**, **Unit Testing**, **E2E Testing**
 - **Git**, **Docker**, **Linux**
 
+### ☁️ Cloud:
+- **AWS (S3, SAM, DynamoDB)**
+
 ### 🌐 Frontend (Basics):
 - **HTML**, **CSS**, **JavaScript**
 
 ### Data & Analytics:
 - **NumPy**, **Pandas**, **Matplotlib**
-
-### ☁️ Cloud:
-- **AWS (S3, SAM, DynamoDB)**
 
 ### 🧠 Computer Science:
 - **Data Structures**, **Algorithms**, **OOP**, **Networking**
