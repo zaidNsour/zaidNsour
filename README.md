@@ -2,27 +2,29 @@
 
 Hello! I'm Zaid, a passionate **Software Developer** with a focus on **backend web development**. My goal is to contribute to impactful projects by leveraging my skills in building robust APIs, managing databases, and solving complex problems. Whether it's crafting clean code or streamlining workflows, I'm always up for a challenge!
 
-## 🔧 Skills & Tools
 
-### Backend Development:
-- **Flask** (API & Web App)
-- **Database** (SQL, ORM)
-- **JWT** (Security with JSON Web Tokens)
-- **Object-Oriented Programming (OOP)**
-- **Thunder Client** (Rest Client for testing APIs)
+## 🛠️ Tech Stack & Skills
 
-### Languages:
-- **Python**, **Java**, **JavaScript**, **SQL**
-- **HTML**, **CSS**
+### 🚀 Backend & API Development:
+- **Flask**, **Express.js**, **Nest.js**
+- **RESTful APIs**, **GraphQL**, **JWT**, **ORM**
+- **SQL**, **Database Design**, **Microservices**
+
+### 🧪 Testing & Tools:
+- **API Testing**, **Unit Testing**, **E2E Testing**
+- **Git**, **Docker**, **Linux**
+
+### 🌐 Frontend (Basics):
+- **HTML**, **CSS**, **JavaScript**
 
 ### Data & Analytics:
 - **NumPy**, **Pandas**, **Matplotlib**
-- **Machine Learning Basics**
 
-### Other Tools:
-- **Git** (Version control)
-- **Linux** (Command-line pro)
-- **Data Structures & Algorithms** 
+### ☁️ Cloud:
+- **AWS (S3, SAM, DynamoDB)**
+
+### 🧠 Computer Science:
+- **Data Structures**, **Algorithms**, **OOP**, **Networking**
 
 
 ## 🎓 Education
@@ -30,19 +32,16 @@ Hello! I'm Zaid, a passionate **Software Developer** with a focus on **backend w
   *GPA: 3.3*
 
 
-## 💡 Fun Facts
+## 🏆 Highlights & Activities
 
-- Solved 80+ problems on [HackerRank](https://www.hackerrank.com/profile/zaidnsour12).
-- Participated in the **Crown Prince Award** competition for Best Government Services Application by developing an AI-powered medical app.
-- Attended **GrandTech 2024** to stay updated on tech trends and innovations.
+- 🏅 Built an **AI-powered medical app** for the **Crown Prince Award 2025**
+- 💡 Attended **GrandTech 2024** for cutting-edge tech insights
+- 🔍 Solved **100+ coding problems** on [HackerRank](https://www.hackerrank.com/profile/zaidnsour12)
+- ⚔️ Competed in **Big O Avengers** coding contest
+- 💬 Joined startup and business events: Pricing Strategy Session, Expo Business City
+- 💼 Attended **University Career Day**
 
-## Let's Connect
-I'm always open to discussing tech, new projects, or opportunities. Feel free to reach out:  
-- **LinkedIn**: [Zaid Nsour](https://www.linkedin.com/in/zaid-nsour-2075632a8)  
-- **GitHub**: Check out my repositories and contributions right here!
+## 📬 Let's Connect
 
-
-<!---
-zaidNsour/zaidNsour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [💼 LinkedIn – Zaid Nsour](https://www.linkedin.com/in/zaid-nsour-2075632a8)  
+- [💻 GitHub – @zaidNsour](https://github.com/zaidNsour)  
